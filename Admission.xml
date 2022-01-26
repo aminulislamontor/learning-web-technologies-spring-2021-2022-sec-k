@@ -1,20 +1,26 @@
 <ADMISSION>
-    <SL NO = 23>
-        <NAME>John Carter</NAME>
-        <DATE>25</DATE>
-        <MONTH>12</MONTH>
-        <YEAR>2015</YEAR>
-    </SL>
-    <SL NO = 35>
-        <NAME>Bob Marshal</NAME>
-        <DATE>13</DATE>
-        <MONTH>01</MONTH>
-        <YEAR>1999</YEAR>
-    </SL>
-    <SL NO = 35>
-        <NAME>Clark Kent</NAME>
-        <DATE>17</DATE>
-        <MONTH>06</MONTH>
-        <YEAR>2005</YEAR>
-    </SL>
+	<SL NO = 23>
+		<NAME>John Carter</NAME>
+		<ADMISSION_DATE>
+			<DATE>25</DATE>
+			<MONTH>12</MONTH>
+			<YEAR>2015</YEAR>
+		</ADMISSION_DATE>
+	</SL>
+	<SL NO = 35>
+		<NAME>Bob Marshal</NAME>
+		<ADMISSION_DATE>
+			<DATE>13</DATE>
+			<MONTH>01</MONTH>
+			<YEAR>1999</YEAR>
+		</ADMISSION_DATE>
+	</SL>
+	<SL NO = 35>
+		<NAME>Clark Kent</NAME>
+		<ADMISSION_DATE>
+			<DATE>17</DATE>
+			<MONTH>06</MONTH>
+			<YEAR>2005</YEAR>
+		</ADMISSION_DATE>
+	</SL>
 </ADMISSION>
